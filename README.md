@@ -10,7 +10,7 @@
 - User can select certain coins and add them to their watchlist.
 - Each coin has designated page with informations/prices/changes.
 - Dark Mode / Light Mode.
-- Check out live [website](https://coinbase-52f8f.web.app/)
+- Check out live Demo [website](https://my-coinbase-clone.netlify.app/)
 
 ## Screenshots
 ![screenshot of website 1](https://github.com/robo311/crypto-app/blob/master/screenshots/coinbase-screenshot-1.png)
@@ -28,8 +28,8 @@
 
 ## Author
 
-- GitHub: [@robo311](https://github.com/robo311)
-- Discord: [@gatti#7613](https://discord.com)
+- GitHub: [@joker6663](https://github.com/rukhillo6663)
+
 
 ### Additional info
 
@@ -38,14 +38,12 @@
 
 ## Updates
 
-##### v1.0
-- First website release
 
-##### v1.1
+##### v1
 - Fixed heart button not being visible at light theme
 - Added text when watchlist is empty
 
-##### v1.2
+##### v2
 - Added hamburger menu for smaller devices
 - Fixed duplicated coins in watchlist
 - Added loading bar at coin page
